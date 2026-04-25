@@ -33,11 +33,7 @@ Git · GitHub · Excel · VS Code
 
 ## 🚀 Projects Done
 
-### 📊 Data Analysis
-- **Transportation Growth vs Air Quality in Jakarta (2020–2023)**  
-  Data analysis exploring the relationship between transportation growth and air quality indicators.
-
-### 🧠 Machine Learning
+### 🧠 Data Analysis & Machine Learning
 - **Mental Health Disorder Prediction**  
   Machine learning model using **k-NN and Random Forest**.
 

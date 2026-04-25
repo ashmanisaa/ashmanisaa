@@ -60,15 +60,5 @@ Git · GitHub · Excel · VS Code
 
 ---
 
-## 📊 GitHub Statistics
-<p align="left">
-<a href="https://github.com/ashmanisaa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashmanisaa&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmanisaa&layout=compact"/>
-</a>
-</p>
-
----
-
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ashmanisaa/
